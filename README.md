@@ -8,7 +8,7 @@ RSS 订阅地址（GitHub Pages，任意 RSS App 直接填，无需账号）：
 https://nobody-0101.github.io/tieba-feed/latest.xml
 ```
 
-- `latest.xml` — 最新一期，最多 60 条，按最后回复时间排序
+- `latest.xml` — 最新一期，最多 60 条，按最后回复时间排序；热帖条目内嵌主楼全文和前 40 条回帖，App 里点开就能读完，不用跳贴吧
 - `latest.md` — 同一份内容的可读版（含热帖主楼全文和高赞回帖）
 - `history/` — 按日期留档的订阅源
 
